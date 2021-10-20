@@ -1,3 +1,5 @@
+#converting an integer to a list of digits
+
 def NumList(n):
 	l = []
 	while(n>0):
